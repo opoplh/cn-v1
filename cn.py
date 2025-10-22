@@ -1432,4 +1432,4 @@ async def info_alias(ctx):
 # Run the bot with your token
 if __name__ == "__main__":
     token = "duscord-bit-tien"
-    bot.run(token)
+    bot.run('to')
