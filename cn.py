@@ -29,7 +29,6 @@ intents.members = True
 
 # Disable the default help command
 bot = commands.Bot(command_prefix='.', intents=intents, help_command=None)
-to = ""
 
 # Main admin user ID
 MAIN_ADMIN_ID = 1295737579840340032
